@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Akışpano: ekipler için proje ve görev yönetimi yazılımı; özellikler, fiyatlar, veri güvenliği ve demo talebi. (Demo site — gerçek kayıt yoktur)",
+    "en": "Akışpano: project and task management software for teams; features, pricing, data security and demo requests. (Demo site — no real sign-up)",
+    "ar": "أكيشبانو: برنامج إدارة المشاريع والمهام للفرق مع الميزات والأسعار وأمن البيانات وطلب عرض تجريبي. (موقع تجريبي — لا يوجد تسجيل فعلي)"
+  },
+  "keyword": {
+    "tr": "proje yönetimi, görev takibi, SaaS",
+    "en": "project management, task tracking, SaaS",
+    "ar": "إدارة المشاريع، تتبع المهام، SaaS"
+  },
+  "category": "Kurumsal",
+  "name": "Akışpano",
+  "domain": "saas.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "inter",
+    "heading": "poppins",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#4F46E5",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "8px",
+    "--mx-radius-md": "14px",
+    "--mx-radius-lg": "20px",
+    "--mx-radius-xl": "27px"
+  },
+  "icon": "icon.png"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "g7m5i8xjwv",
+  "name": {
+    "tr": "Özellikler",
+    "en": "Features",
+    "ar": "الميزات"
+  },
+  "description": {
+    "tr": "Küçük ekipten kuruma, ölçeğe uygun özellikler.",
+    "en": "Features that scale from small teams to organisations.",
+    "ar": "ميزات تناسب من الفرق الصغيرة إلى المؤسسات."
+  },
+  "keyword": {
+    "tr": "proje yönetimi, görev takibi, SaaS",
+    "en": "project management, task tracking, SaaS",
+    "ar": "إدارة المشاريع، تتبع المهام، SaaS"
+  },
+  "path": "ozellikler",
+  "icon": "dashboard",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "dbd9fg",
+      "2dvzsj",
+      "o5isf3"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Özellikler",
+    "en": "Features",
+    "ar": "الميزات"
+  },
+  "date": "2026-10-30T22:22:55.970Z",
+  "update": "2026-10-30T22:22:55.972Z"
+}
