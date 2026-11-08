@@ -163,6 +163,31 @@
         "footer": []
       },
       "index": 6
+    },
+    {
+      "id": "u5vpp72s5z",
+      "name": {
+        "tr": "Ürün",
+        "en": "Product",
+        "ar": "المنتج"
+      },
+      "description": {
+        "tr": "Soyut ürün ekranları ve çalışma alanı görüntüleri; metin içermez.",
+        "en": "Abstract product screens and workspace images; no text.",
+        "ar": "شاشات منتج تجريدية وصور مساحة العمل؛ بدون نصوص."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "ueouv4"
+        ],
+        "footer": []
+      },
+      "index": 7
     }
   ]
 }

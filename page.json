@@ -129,31 +129,6 @@
       "index": 4
     },
     {
-      "id": "u5vpp72s5z",
-      "name": {
-        "tr": "Ürün",
-        "en": "Product",
-        "ar": "المنتج"
-      },
-      "description": {
-        "tr": "Soyut ürün ekranları ve çalışma alanı görüntüleri; metin içermez.",
-        "en": "Abstract product screens and workspace images; no text.",
-        "ar": "شاشات منتج تجريدية وصور مساحة العمل؛ بدون نصوص."
-      },
-      "path": "galeri",
-      "icon": "photo_library",
-      "category": "",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [
-          "ueouv4"
-        ],
-        "footer": []
-      },
-      "index": 5
-    },
-    {
       "name": {
         "tr": "Hakkımızda",
         "en": "About",
@@ -164,7 +139,7 @@
       "path": "hakkimizda",
       "category": "",
       "url": "",
-      "index": 6,
+      "index": 5,
       "icon": "info",
       "desing": {
         "header": [],
@@ -192,7 +167,7 @@
       "path": "iletisim",
       "category": "",
       "url": "",
-      "index": 7,
+      "index": 6,
       "icon": "call",
       "desing": {
         "header": [],
